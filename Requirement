@@ -1,0 +1,4 @@
+mediapipe>=0.10.30 
+opencv-python
+First download the model file and put it next to mesh.py:
+https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task
